@@ -3,8 +3,6 @@ title: "Overview"
 slug: overview
 ---
 
-# Overview
-
 How does one become wealthy?
 
 Some people win the lottery, or start Facebook or Apple, but actually the vast majority of wealthy people follow the teachings of this tutorial: careful financial planning.
