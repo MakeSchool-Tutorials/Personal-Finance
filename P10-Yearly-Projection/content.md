@@ -3,8 +3,6 @@ title: "Yearly Projection"
 slug: yearly-projection
 ---
 
-# Yearly Projections
-
 So far, we projected our money out for 12 months.
 
 Now let’s project it out in years!

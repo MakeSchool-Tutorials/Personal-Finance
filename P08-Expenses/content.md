@@ -3,8 +3,6 @@ title: "Expenses"
 slug: expenses
 ---
 
-# Are you Projecting?
-
 Projecting expenses gives you the power to control and decrease your costs. Or, spend money more wisely. Visibility into your spend may also reveal some surprising habits: “you spend over $150 a month on Lyft?!”
 
 # Fixed Expenses Vs Variable Expenses

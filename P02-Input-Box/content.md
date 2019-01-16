@@ -2,13 +2,14 @@
 title: "Input Box"
 slug: input-box
 ---
-# Creating an Input Box
 
 Let’s orient ourselves on how to *think* about personal finance.
 
 Building a personal financial model is very similar to programming. In coding we use object oriented programming to make our code modular so changes can ripple through the codebase.
 
 Similarly, in our financial model, we can use an **input box** that includes all the variables we put into the model (such as salary, cost, tax rate, etc), and those inputs ripples through our projections and totals. By having an input box we keep our model clean.
+
+# Creating an Input Box
 
 Let’s start our personal financial model by creating an input box.
 
@@ -42,6 +43,8 @@ Instead of calculating this over and over again let’s create a function in thi
 
 See this [extensive list](https://support.google.com/docs/table/25273) of formulas and this list of top ten most commonly used functions
 
+# Annual Inputs => Monthly Inputs
+
 Believe it or not, just like programming, most calculations in finance are just basic arithmetic.
 
 > [action]
@@ -49,12 +52,14 @@ Believe it or not, just like programming, most calculations in finance are just 
 >
 > * Write the inputs values listed above into your input box
 > * Write formulas in C2 to C8 to translate annual inputs into monthly inputs
-> * Format data: use the following tips to format your data with the correct units ($, %). https://gsuite.google.com/learning-center/products/sheets/get-started/#!/section-2
+> * Format data: use [these tips](https://gsuite.google.com/learning-center/products/sheets/get-started/#!/section-2) to format your data with the correct units ($, %).
 
 ## Stretch Challenge
 
 >[challenge]
-> Write a function for progressive income tax into your spreadsheet. Here’s a link explaining the real way that income taxes are calculated in the United States https://blog.taxact.com/how-tax-brackets-work/. Hint: write a formula for a progressive income tax using the tax table in the link below, VLOOKUP and SUMPRODUCT functions. Here’s a tutorial on how to do so … https://www.excel-university.com/income-tax-formula/
+> Write a function for progressive income tax into your spreadsheet. Here’s [a link](https://blog.taxact.com/how-tax-brackets-work/) explaining the real way that income taxes are calculated in the United States.
+>
+> **Hint:** write a formula for a progressive income tax using the tax table in the link below, VLOOKUP and SUMPRODUCT functions. Here’s [a tutorial](https://www.excel-university.com/income-tax-formula/) on how to do so.
 
 # Onward
 

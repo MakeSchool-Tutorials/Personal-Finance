@@ -3,9 +3,9 @@ title: "Cumulative Interest"
 slug: cumulative-interest
 ---
 
-# Return on Investment
+Part of the value of creating a personal financial model is that it allows us to **predict the return on an investment**. The return on investment is an estimation of how much money you will make off of how much money you invested.
 
-Part of the value of creating a personal financial model is that it allows us to **predict the return on an investment**. The return on investment is an estimation of how much money you will make off of how much money you invested. This skill is used by Venture Capitalists to do “valuations” of companies (what it means when they say, “this company is worth $1 billion dollars”), entrepreneurs to ensure they have enough money in the bank to carry out operations,  as well as in personal financial planning to make sure you are saving up enough money to apply for a mortgage, pay for a child’s college, payback loans, etc.
+This skill is used by Venture Capitalists to do “valuations” of companies (what it means when they say, “this company is worth $1 billion dollars”), entrepreneurs to ensure they have enough money in the bank to carry out operations,  as well as in personal financial planning to make sure you are saving up enough money to apply for a mortgage, pay for a child’s college, payback loans, etc.
 
 # Interest
 

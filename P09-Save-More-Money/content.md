@@ -3,8 +3,6 @@ title: "Save More Money"
 slug: save-more-money
 ---
 
-# How Much a Pizza Really Cost
-
 A pizza costs $10.
 
 Simple enough, right?

@@ -3,8 +3,6 @@ title: "Stretching Money Across Months"
 slug: stretching-money-across-months
 ---
 
-# Monthly Stretch
-
 Now, let’s extend our formulas across 12 months to see how our monthly return on savings changes:
 
 >[action]
@@ -21,11 +19,11 @@ Have a go at building that into your model. Keep in mind your formula should be
 
 **Note:** you will need a new formula to apply to months 2-12 for monthly return on savings and total accumulated savings.
 
-### Copying Formulas
+# Copying Formulas
 
 Instead of re-writing your formula over and over, you can easily copy and paste formulas across rows, like we demonstrated in the challenges. To do this, hover over the cell whose formula you want to copy and notice the small blue box in the lower right-hand corner of  the cell. Drag that to the cells right or left of the row to copy the formula into other cells.
 
-### My Formula Broke!
+# My Formula Broke!
 
 **WAIT MY FORMULA BROKE!** - You’ll notice that when you drag a *formula* one cell right, it also changes the referenced cells mentioned in the formula one cell right too.
 

@@ -3,8 +3,6 @@ title: "Playground"
 slug: playground
 ---
 
-# Set Up Playground
-
 >[action]
 > Make a copy of [this](https://docs.google.com/spreadsheets/d/1sTn7VpVVeW7kN1H-ova-gztEiWP62s8Qw-uIAQN-jNE/edit#gid=0) spreadsheet into your Google Drive.
 >

@@ -3,8 +3,6 @@ title: "Projecting Kept Money"
 slug: projecting-kept-money
 ---
 
-# Projecting “kept money”
-
 Now, let’s start using these inputs to calculate how much money we keep from our paycheck.
 
 All companies and individuals face a question: how should I make sense and structure my thinking around finances? Should I list expenses first and add income? Or should I list income and then deduct costs.
