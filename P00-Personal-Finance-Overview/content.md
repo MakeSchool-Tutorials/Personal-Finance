@@ -1,6 +1,6 @@
 ---
-title: "Overview"
-slug: overview
+title: "Personal Finance Overview"
+slug: personal-finance-overview
 ---
 
 How does one become wealthy?
