@@ -9,6 +9,8 @@ Some people win the lottery, or start Facebook or Apple, but actually the vast m
 
 Personal finance gives us power to understand and control our finances.
 
+# Learning Outcomes
+
 In this tutorial you will build a personal financial model to achieve the following:
 
 * Calculate how your ISA will affect your “kept money” across months, years, and decades
@@ -24,6 +26,8 @@ You will also learn how to use spreadsheets. The benefits:
 
 * **Speak the “language” of business.”** Spreadsheets are used for data analysis by business leaders, teachers, accountants, finance managers, PMs, and others.
 * **Learn one, learn them all.** Google Sheets as the same functionality and formula semantics as Microsoft Excel and Numbers by Apple. You can think they are in the same coding language.
+
+# Coming Up
 
 The next playground will teach you some foundational concepts using spreadsheets, the tool used by financial modelists. The rest of the tutorial will help you
 
