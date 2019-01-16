@@ -15,7 +15,11 @@ The answer can be found by drawing out how money literally flows to us. Like in 
 Kept money = [Get check from employer] - [employer withholds taxes] - [pay ISA] - [put some money in savings] - [personal expenses]
 ```
 
-For this reason we start with income and reduce that income total by costs. To format this effectively, financial modelists often write “less” in descriptions of line items to clearly note when an item is deducting from the original income.
+For this reason we start with income and reduce that income total by costs.
+
+# Calculate Retained Income
+
+To format this function effectively, financial modelists often write “less” in descriptions of line items to clearly note when an item is deducting from the original income.
 
 >[action]
 > Let’s calculate how much of your income you retain per **month** given ISA, taxes, savings, intended saving ratio.
