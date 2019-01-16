@@ -51,7 +51,7 @@ Believe it or not, just like programming, most calculations in finance are just 
 > In your input box:
 >
 > * Write the inputs values listed above into your input box
-> * Write formulas in C2 to C8 to translate annual inputs into monthly inputs
+> * Write formulas in `C2` to `C8` to translate annual inputs into monthly inputs
 > * Format data: use [these tips](https://gsuite.google.com/learning-center/products/sheets/get-started/#!/section-2) to format your data with the correct units ($, %).
 
 ## Stretch Challenge
@@ -59,7 +59,7 @@ Believe it or not, just like programming, most calculations in finance are just 
 >[challenge]
 > Write a function for progressive income tax into your spreadsheet. Here’s [a link](https://blog.taxact.com/how-tax-brackets-work/) explaining the real way that income taxes are calculated in the United States.
 >
-> **Hint:** write a formula for a progressive income tax using the tax table in the link below, VLOOKUP and SUMPRODUCT functions. Here’s [a tutorial](https://www.excel-university.com/income-tax-formula/) on how to do so.
+> **Hint:** write a formula for a progressive income tax using the tax table in the link below, `VLOOKUP` and `SUMPRODUCT` functions. Here’s [a tutorial](https://www.excel-university.com/income-tax-formula/) on how to do so.
 
 # Onward
 

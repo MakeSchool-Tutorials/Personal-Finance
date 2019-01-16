@@ -18,7 +18,7 @@ We are not done yet. Now that we’ve built our model let’s use it to determin
 > 1. If you saved an additional 5% income a year and how would it be? **Hint:** you’ll need calculate it per month
 > 1. If you want to save $10,000 over 10 years how can you save that money? Which line item totals would you alter and by how much to reach your $10,000 total?
 >
-> Document your answers in a a github repository and fill out this form to complete the tutorial.
+> Document your answers in a a GitHub repository and fill out this form to complete the tutorial.
 
 # Final Thoughts
 

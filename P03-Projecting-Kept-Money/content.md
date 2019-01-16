@@ -24,8 +24,8 @@ To format this function effectively, financial modelists often write “less” 
 >
 > **Reminder:** To keep up with spreadsheet best practices, like in OOP, write the formulas ONLY by referencing the variables in the input boxes. Again, by pointing back to the inputs, we keep our spreadsheet modular and our data clean of duplication errors.
 >
-> 1. Start your calculation by creating a month column to the right of your input box. Put “Month 1” in the top cell of the column G. Standard finance practices puts time increments (months or years) as columns and different line items (rent, salary, etc) as rows.
+> 1. Start your calculation by creating a month column to the right of your input box. Put `Month 1` in the top cell of the column `G`. Standard finance practices puts time increments (months or years) as columns and different line items (rent, salary, etc) as rows.
 > 1. Write functions in the yellow cells for your Month 1 income. Note, ALWAYS reference the input box instead of writing inputs from scratch.
-> 1. **SKIP** filling in the “Interest,” “Savings” and “Total accumulated savings” boxes. We’ll cover this later in the tutorial … there’s a bit more nuance since these cells must reference previous months.
+> 1. **SKIP** filling in the `Interest`, `Savings` and `Total accumulated savings` boxes. We’ll cover this later in the tutorial … there’s a bit more nuance since these cells must reference previous months.
 
-If modeled correctly, and your “inputs” are as listed above, you should have a **“Kept income” total of $6,344 for Month 1.**
+If modeled correctly, and your “inputs” are as listed above, you should have a **`Kept income` total of $6,344 for Month 1.**

@@ -49,15 +49,15 @@ These variable costs are our main area of focus when deciding what expenses we w
 >[action]
 > Let’s track our variable and fixed expenses.
 >
-> 1. Below your **input box** you’ll see an **input box template** for variable and fixed expenses. It is currently prepopulated. Let’s fill it in with your own data - search your debit card log, receipts (uber and lift) and other records of your spending to get an as-accurate-as-reasonable estimate of your weekly spend of these costs. Convert your yearly costs into monthly costs.
-> 1. In your monthly totals for fixed and variable expenses (G17 to G26 and G33 toG40) reference your cells in the input box for fixed and variable expenses. Once completed, drag the formula, like we did in previous sections, to extend the formula across the other 12 months. Note, you’ll have to “lock” cells in order to make the formula work.
-> 1. Calculate the following new other line items across 12 months
+> 1. Below your `input box` you’ll see an `input box template` for variable and fixed expenses. It is currently prepopulated. Let’s fill it in with your own data - search your debit card log, receipts (uber and lift) and other records of your spending to get an as-accurate-as-reasonable estimate of your weekly spend of these costs. Convert your yearly costs into monthly costs.
+> 1. In your monthly totals for `fixed` and `variable` expenses (`G17` to `G26` and `G33` to `G40`) reference your cells in the input box for fixed and variable expenses. Once completed, drag the formula, like we did in previous sections, to extend the formula across the other 12 months. Note, you’ll have to `lock` cells in order to make the formula work.
+> 1. Calculate the following new line items across 12 months
 >     * TOTAL FIXED EXPENSES
 >     * Net Income less Fixed Exp.
 >     * TOTAL VARIABLE
 >     * Total Expenses
 >     * Total Kept Income
-> 1. In column S calculate the yearly totals for each line item. We’ll use these totals in a future section to calculate yearly projections.
+> 1. In column `S` calculate the yearly totals for each line item. We’ll use these totals in a future section to calculate yearly projections.
 
 # Onward
 

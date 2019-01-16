@@ -22,6 +22,12 @@ With financial modeling, we can project out how much money we will have in one y
 >
 > As always, first write out the new line items and how they are calculated. **Note:** you’ll need to convert all units in the input box into monthly costs. Be sure to reference the correct monthly or yearly cost when calculating.
 >
->* Add a new line item under gross income (F3) called **this months savings** that grows each month by the monthly income savings rate times total monthly salary
->* Below savings, add another line item called **monthly return on savings** that is calculated by … ( savings from previous month plus “total accumulated savings” ) * the monthly return on savings rate. Monthly return on savings is grouped as a new income stream, and is thus included in that months total income ...
+>* Add a new line item under `gross income (F3)` called `this months savings` that grows each month by the monthly income savings rate times total monthly salary
+>* Below `savings`, add another line item called `monthly return on savings` that is calculated by …
+>
+```
+( savings from previous month + “total accumulated savings” ) * the monthly return on savings rate.
+```
+>
+> * **Note:** Monthly return on savings is grouped as a new income stream, and is thus included in that months total income ...
 >* Add a line item that is “total accumulated savings” that is a total of savings + the new savings added from this month’s income + this month’s monthly return on savings. Note: this total does not add to “Total income” but is rather a placeholder counter of your total savings since Month 1.

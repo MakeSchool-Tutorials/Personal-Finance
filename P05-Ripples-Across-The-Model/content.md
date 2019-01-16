@@ -6,7 +6,7 @@ slug: ripples-across-the-model
 Let’s bring our model to life.
 
 >[action]
-> Change the income from $105,000 to $120,000. You’ll notice that the “kept income” total changes.
+> Change the `income` from $105,000 to $120,000. You’ll notice that the `kept income` total changes.
 
 Play around with a few other inputs. What do you notice? Does change in income lead to a linear change in money kept?
 

@@ -7,8 +7,8 @@ Now, let’s extend our formulas across 12 months to see how our monthly return 
 
 >[action]
 >
-> 1. Next to the column header “Month 1” (G2) add “Month 2” to the right column, then “Month 3” all the way to “Month 12.” Tip, if you highlight both Month 1 and Month 2 at the same time and drag the little blue box in the highlighted cells bottom right corner, Google sheets will automatically realize you are growing months by 1 and will populate the correct cell content!
-> 1. Copy these formulas in column G2-G13 for “Month 1” all the way to Month 12. You should see many of the values stay the same but monthly return on savings and total accumulated savings should change.
+> 1. Next to the column header `Month 1` `(G2)` add `Month 2` to the right column, then `Month 3` all the way to `Month 12`. **Tip:** if you highlight both `Month 1` and `Month 2` at the same time and drag the little blue box in the highlighted cells bottom right corner, Google sheets will automatically realize you are growing months by 1 and will populate the correct cell content!
+> 1. Copy these formulas in column `G2-G13` for `Month 1` all the way to `Month 12`. You should see many of the values stay the same but monthly return on savings and total accumulated savings should change.
 
 Have a go at building that into your model. Keep in mind your formula should be
 
@@ -27,11 +27,11 @@ Instead of re-writing your formula over and over, you can easily copy and paste 
 
 **WAIT MY FORMULA BROKE!** - You’ll notice that when you drag a *formula* one cell right, it also changes the referenced cells mentioned in the formula one cell right too.
 
-But we want to fixate our formula on certain cells (i.e. always reference B4)! For that reason we need to “lock” our cells to ensure that we are always referencing the same cell in the sheet (i.e. tax rate) even as we move right.
+But we want to fixate our formula on certain cells (i.e. always reference `B4`)! For that reason we need to “lock” our cells to ensure that we are always referencing the same cell in the sheet (i.e. tax rate) even as we move right.
 
-Use the “$” sign in the formula to lock the row or column as you drag the formula. If you put the $ before the row of the cell (i.e. $A1) then when you drag the formula it will lock the X. If you put it before the number (i.e. A$1) it will lock the x as you drag it. And if you put the $ before and after the cell (i.e. $A$1) then it will lock that cell,
+Use the `$` sign in the formula to lock the row or column as you drag the formula. If you put the `$` before the row of the cell (i.e. `$A1`) then when you drag the formula it will lock the `X`. If you put it before the number (i.e. `A$1`) it will lock the `x` as you drag it. And if you put the `$` before and after the cell (i.e. `$A$1`) then it will lock that cell,
 
-Using “$” allows us to lock and keep reference on our input cells while doing forecasts.
+Using `$` allows us to lock and keep reference on our input cells while doing forecasts.
 
 
 # Onward
