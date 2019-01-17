@@ -41,7 +41,7 @@ Instead of calculating this over and over again let’s create a function in thi
 = [cell] - 5
 ```
 
-See this [extensive list](https://support.google.com/docs/table/25273) of formulas and this list of top ten most commonly used functions
+See this [extensive list](https://support.google.com/docs/table/25273) of formulas and this list of [top ten most commonly used functions](https://interestingengineering.com/top-10-most-useful-excel-formulas) and [ten commonly used advanced functions](https://corporatefinanceinstitute.com/resources/excel/study/advanced-excel-formulas-must-know/).
 
 # Annual Inputs => Monthly Inputs
 

@@ -29,6 +29,7 @@ Fixed expenses include things where you can only make cost decisions a few times
 Variable expenses, on the other hand, are the daily and weekly costs we accrue. We have more control over these costs and can choose to change them rapidly if we like.
 
 For example:
+
 * Groceries
 * Personal care items (drugstore)
 * Fuel / public transportation costs
