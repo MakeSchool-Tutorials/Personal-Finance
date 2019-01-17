@@ -20,7 +20,6 @@ In this tutorial you will build a personal financial model to achieve the follow
     * How can I spend and save money to hit my financial targets?
     * How much money do I need to save/invest each year to retire early?
     * If you lowered your living expense by 10% and you made 5% more salary how would that change your bottom line?
-    * If you saved an additional 5% income a year and how would it be?
 
 You will also learn how to use spreadsheets. The benefits:
 
