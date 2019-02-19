@@ -25,21 +25,27 @@ Let’s start our personal financial model by creating an input box.
 > * **Tax Rate** = 30% - … more on this below
 > * **Charitable giving %** = 2.5% - what percentage of your income do you want to give after taxes
 > * **Annual Return on Savings** = 5.0% - what is the return rate on your savings?
-
+>
+> You can input each of these numbers into the input box in the Yearly column. Note: the yellow boxes are there to point out cells you will edit (input functions, change numbers) throughout in the tutorial.
 
 You’ll notice that a few different inputs are not a constant. They require a **function**.
 
 
 # Functions
 
-Instead of calculating this over and over again let’s create a function in this one cell - *B6* - that we will later reference in our financial model. In the “coding language” of Google Sheets the following functions help you do basic calculations:
+Instead of calculating this over and over again let’s create a function in this one cell - *B6* - that we will later reference in our financial model. In the “coding language” of Google Sheets the following example functions help you do basic calculations:
 
 ```
-=SUM(range [selected cell(s)]:[selected cell(s))
-= [cell] - [cell]
-= [cell] * [cell]
-= [cell] - 5
+=SUM(range[selected cell(s)]:[selected cell(s))
+= [cell]-[cell]
+= [cell]*[cell]
+= [cell]-5
 ```
+
+In column C of the Input Box, use formulas to turn the "total per year" numbers you just wrote in column B into monthly amounts. Note the following:
+* Income streams will be 1/12 of the yearly total
+* The rates (ISA, Income Savings Rate, Tax Rate) will remain constant. The same percentage will be multiplied to your per month income total
+* The Annual Return on Savings will not have a monthly return, just to simplify the model
 
 See this [extensive list](https://support.google.com/docs/table/25273) of formulas and this list of [top ten most commonly used functions](https://interestingengineering.com/top-10-most-useful-excel-formulas) and [ten commonly used advanced functions](https://corporatefinanceinstitute.com/resources/excel/study/advanced-excel-formulas-must-know/).
 
