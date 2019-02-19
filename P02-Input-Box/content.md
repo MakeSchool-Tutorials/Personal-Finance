@@ -42,11 +42,6 @@ Instead of calculating this over and over again let’s create a function in thi
 = [cell]-5
 ```
 
-In column C of the Input Box, use formulas to turn the "total per year" numbers you just wrote in column B into monthly amounts. Note the following:
-* Income streams will be 1/12 of the yearly total
-* The rates (ISA, Income Savings Rate, Tax Rate) will remain constant. The same percentage will be multiplied to your per month income total
-* The Annual Return on Savings will not have a monthly return, just to simplify the model
-
 See this [extensive list](https://support.google.com/docs/table/25273) of formulas and this list of [top ten most commonly used functions](https://interestingengineering.com/top-10-most-useful-excel-formulas) and [ten commonly used advanced functions](https://corporatefinanceinstitute.com/resources/excel/study/advanced-excel-formulas-must-know/).
 
 # Annual Inputs => Monthly Inputs
@@ -59,6 +54,10 @@ Believe it or not, just like programming, most calculations in finance are just 
 > * Write the inputs values listed above into your input box
 > * Write formulas in `C2` to `C8` to translate annual inputs into monthly inputs
 > * Format data: use [these tips](https://gsuite.google.com/learning-center/products/sheets/get-started/#!/section-2) to format your data with the correct units ($, %).
+In column C of the Input Box, use formulas to turn the "total per year" numbers you just wrote in column B into monthly amounts. Note the following:
+> * Income streams will be 1/12 of the yearly total
+> * The rates (ISA, Income Savings Rate, Tax Rate) will remain constant. The same percentage will be multiplied to your per month income total later in the model.
+> * The Annual Return on Savings will not have a monthly return. Instead we'll calculate a year end return on savings.
 
 ## Stretch Challenge
 
