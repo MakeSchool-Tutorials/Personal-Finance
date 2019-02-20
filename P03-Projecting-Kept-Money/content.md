@@ -28,4 +28,4 @@ To format this function effectively, financial modelists often write “less” 
 > 1. Write functions in the yellow cells for your Month 1 income. Note, ALWAYS reference the input box instead of writing inputs from scratch.
 > 1. **SKIP** filling in the `Interest`, `Savings` and `Total accumulated savings` boxes. We’ll cover this later in the tutorial … there’s a bit more nuance since these cells must reference previous months.
 
-If modeled correctly, and your “inputs” are as listed above, you should have a **`Kept income` total of $6,344 for Month 1.**
+If modeled correctly, and your “inputs” are as listed above, you should have a **`Kept income` total of $3,937.50 for Month 1.**

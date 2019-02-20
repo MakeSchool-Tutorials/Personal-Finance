@@ -13,10 +13,10 @@ Play around with a few other inputs. What do you notice? Does change in income l
 If you’ve modeled your sheet correctly, you should have the following answers:
 
 > [solution]
->
-* Kept income = $7,250
-* Taxes = $250
-* Total income = $10,000
+> If you change total income from $105,000 to $120,00 (and use the old inputs) you should see the following changes ripple throughout your model:
+* Kept income --> changes from  $8,750 to $10,000
+* Taxes --> changes from $2,625 to $3,000
+* Total income --> changes from $3,938 to $4,500
 
 # Why We Do This
 

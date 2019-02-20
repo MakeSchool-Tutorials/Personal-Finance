@@ -20,4 +20,4 @@ Combining line items into different buckets is also useful. You can create a **t
 >[action]
 > Add the following sum line item to the sheet
 >
->* Insert new line item `Total income expense`, have it equal the sum of that month’s income and tax rate.
+>* Insert new line item `Total income expense` be replacing the "x" in column F, have it equal the sum of that month’s income and tax rate.
